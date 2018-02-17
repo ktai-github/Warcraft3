@@ -19,9 +19,9 @@
     return self;
   }
 
-//- (void)setHealthPoints:(int)hp {
-//  self.healthPoints = hp;
-//
-//}
+- (void)setHealthPoints:(int)hp {
+  _healthPoints = hp;
+
+}
 
 @end
